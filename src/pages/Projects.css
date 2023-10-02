@@ -1,0 +1,62 @@
+.head{
+    position:absolute;
+    color:#E3C08D ;
+    font-size: xx-large;
+    justify-content:center
+}
+.a{
+    color:bisque;
+}
+.Project {
+  
+    background:peachpuff;
+    height:400px;
+    width:250px;
+    align-items: center;
+margin-top: 300px;
+margin-left:200px;
+padding:30px;
+border-radius: 20px;
+display:flex;
+
+  }
+  .img{
+    margin-left:20px;
+  }
+  
+  .btn{
+    background-color: #5C4033;
+  border:none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 20px;
+  margin-top:0px;
+  
+  }
+  .cardpara{
+    font-size:25px;
+  }
+  .whole{
+    display:flex;
+  }
+  .crd2{
+   margin-left:300px;
+    width:500px;
+    height:400px;
+    background-color: peachpuff;
+    padding-right:40px;
+    padding-left: 40px;
+    padding-top:24px;
+    padding-bottom: 24px;
+    border-radius: 20px;
+  }
+  .project2{
+    margin-top:20px;
+    width:200px;
+    border-radius: 10px;
+    
+  }

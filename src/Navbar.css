@@ -1,0 +1,31 @@
+
+.navbar {
+    background-color: grey; /* Background color of the navbar */
+    color: #fff; /* Text color of the navbar links */
+    padding: 10px 10; /* Adjust padding as needed */
+  }
+  
+  .navbar ul {
+    list-style: none; /* Remove bullet points from the list */
+    padding: 10px;
+    text-align: end; /* Center-align the navigation links */
+  }
+  
+  .navbar li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 10px ; /* Add spacing between list items */
+    margin-inline: 1rem;
+    
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Text color of the links */
+    font-weight: bold; /* Make the text bold */
+  }
+  .Port{
+    text-align: left;
+    font-size: 20px;
+    color: black;
+  }
+  
